@@ -5,7 +5,6 @@ import './index.css'
 function Header() {
     return ( 
         <>
-                <h1>Header</h1>
         </>
      );
 }
